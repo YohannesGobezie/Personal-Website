@@ -6,10 +6,17 @@
     <description>Recent content on Yohannes Gobezie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Mar 2024 12:50:19 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 12:50:19 -0600</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
+      <title>SMA Investing Strategy Backtest</title>
+      <link>//localhost:1313/projects/sma_analysis/</link>
+      <pubDate>Tue, 19 Mar 2024 12:50:19 -0600</pubDate>
+      <guid>//localhost:1313/projects/sma_analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Apple Phone</title>
       <link>//localhost:1313/posts/first/</link>
       <pubDate>Sat, 16 Mar 2024 12:50:19 -0600</pubDate>
       <guid>//localhost:1313/posts/first/</guid>
@@ -21,6 +28,13 @@
       <pubDate>Sat, 16 Mar 2024 12:50:19 -0600</pubDate>
       <guid>//localhost:1313/posts/second/</guid>
       <description>Book Review The Count of Monte Cristo This is a novel written by Alexander Dumas.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/aboutme/</guid>
+      <description>aboutme</description>
     </item>
   </channel>
 </rss>

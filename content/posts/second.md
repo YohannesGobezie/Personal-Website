@@ -3,8 +3,8 @@ date: "2024-03-16T12:50:19-06:00"
 draft: false
 title: Something About Books
 cover:
-  alt: Some wierd image
-  caption: Caption shushman
+  alt: Some Books
+  # caption: Caption
   image: img/Academic-Presses.jpg
 tags: ["html", "css"]
 categories: ["books"]

@@ -9,18 +9,18 @@
     <lastBuildDate>Sat, 16 Mar 2024 12:50:19 -0600</lastBuildDate>
     <atom:link href="//localhost:1313/tags/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
+      <title>New Apple Phone</title>
       <link>//localhost:1313/posts/first/</link>
       <pubDate>Sat, 16 Mar 2024 12:50:19 -0600</pubDate>
       <guid>//localhost:1313/posts/first/</guid>
-      <description>New Tech This is a heading 2 you absolute shushman Paragraph paragraph paragraph.</description>
+      <description>iPhone 16 </description>
     </item>
     <item>
       <title>Something About Books</title>
       <link>//localhost:1313/posts/second/</link>
       <pubDate>Sat, 16 Mar 2024 12:50:19 -0600</pubDate>
       <guid>//localhost:1313/posts/second/</guid>
-      <description>Book Review This is a heading 2 absolute weirdo Paragraph paragraph paragraph.</description>
+      <description>Book Review The Count of Monte Cristo This is a novel written by Alexander Dumas.</description>
     </item>
   </channel>
 </rss>

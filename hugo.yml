@@ -4,9 +4,17 @@ title: Yohannes Gobezie
 theme: PaperMod
 
 params:
-  homeInfoParams:
-    Title: "Hello Stalker"
-    Content: Welcome to my Personal Website.
+  # homeInfoParams:
+  #   Title: "Hello Stalker"
+  #   Content: Welcome to my Personal Website.
+  profileMode:
+    enabled: True
+    title: Welcome Stalker!
+    subtitle: My name is Yohannes Gobezie and I am an undergraduate student at the **University of Alberta**, pursuing a Bacherlor of Science degree with a major in **Computing Science** and a minor in **Economics**.
+    imageUrl: 'img/profile_pic.jpg'
+    imageTitle: Yohannes Gobezie
+    # imageHeight: 200px
+    # imageWidth: 200px
   socialIcons:
     - name: linkedin
       url: "https://linkedin.com/in/yohannes-gobezie"
@@ -17,18 +25,29 @@ params:
   
   ShowBreadCrumbs: True
   ShowReadingTime: True
-  ShowPostNavLinks: True
 
 menu:
   main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 1
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 5
+    - identifier: aboutme
+      name: About Me
+      url: /aboutme/
+      weight: 7
     - identifier: categories
       name: Categories
       url: /categories/
       weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 20
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags/
+    #   weight: 20
     - identifier: archives
       name: Archives
       url: /archives/
