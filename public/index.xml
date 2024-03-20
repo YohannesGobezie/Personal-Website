@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Yohannes Gobezie</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Yohannes Gobezie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Mar 2024 12:50:19 -0600</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>//localhost:1313/posts/first/</link>
+      <pubDate>Sat, 16 Mar 2024 12:50:19 -0600</pubDate>
+      <guid>//localhost:1313/posts/first/</guid>
+      <description>New Tech This is a heading 2 you absolute shushman Paragraph paragraph paragraph.</description>
+    </item>
+    <item>
+      <title>Something About Books</title>
+      <link>//localhost:1313/posts/second/</link>
+      <pubDate>Sat, 16 Mar 2024 12:50:19 -0600</pubDate>
+      <guid>//localhost:1313/posts/second/</guid>
+      <description>Book Review The Count of Monte Cristo This is a novel written by Alexander Dumas.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+baseURL: ""
+languageCode: en-us
+title: Yohannes Gobezie
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hello Stalker"
+    Content: Welcome to my Personal Website.
+  socialIcons:
+    - name: linkedin
+      url: "https://linkedin.com/in/yohannes-gobezie"
+    - name: github
+      url: "https://github.com/YohannesGobezie/"
+  cover:
+    linkFullImages: True
+  
+  ShowBreadCrumbs: True
+  ShowReadingTime: True
+  ShowPostNavLinks: True
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
